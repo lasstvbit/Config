@@ -1,0 +1,16 @@
+<virtualSet>
+<input name="BACKGROUND" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0">BACKGROUND.png</input>
+<input name="TV SCREEN D" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TV SCREEN D.png">Demo-Screen-D.PNG</input>
+<input name="TV SCREEN C" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TV SCREEN C.png">Demo-Screen-C.PNG</input>
+<input name="TV SCREEN B" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TV SCREEN B.png">Demo-Screen-B.PNG</input>
+<input name="TV SCREEN A" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TV SCREEN A.png">Demo-Screen-A.PNG</input>
+<input name="VIRTUAL SET" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0">VIRTUAL SET.PNG</input>
+<input name="TALENT" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TALENT.png"/>
+<input name="TV SCREEN E" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="TV SCREEN E.png">Demo-Screen-E.PNG</input>
+<input name="MASKFLOOR" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0">MASKFLOOR.png</input>
+<input name="Overlay01" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="True"/>
+<zoom name="Close Up" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0"/>
+<zoom name="Medium Shot" x="0" y="0" zoomX="1.5" zoomY="1.5" rotateX="0" rotateY="0" rotateZ="0"/>
+<zoom name="Full" x="0" y="0" zoomX="2" zoomY="2" rotateX="0" rotateY="0" rotateZ="0"/>
+<zoom name="Custom" x="0.3747072" y="0.4083332" zoomX="1.793911" zoomY="1.793911" rotateX="0" rotateY="0" rotateZ="0"/>
+</virtualSet>
